@@ -1,3 +1,3 @@
 #GIT education
 
-by solomon asahgre.
+by solomon ashagre.
